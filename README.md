@@ -17,7 +17,7 @@ Enter a suspicious link and click **"Check"** — the tool will tell you if it's
 
 ### ⚠️ Disclaimer
 This tool helps you stay safe but **cannot guarantee 100% security**. Always use multiple layers of protection online.
-
+### 📡 Link: https://suhaibishri.github.io/urlchecker.html
 ---
 
 ## العربية
@@ -37,6 +37,7 @@ This tool helps you stay safe but **cannot guarantee 100% security**. Always use
 
 ### ⚠️ تنويه
 الأداة توفر وسيلة مساعدة للسلامة، ولكن **لا تضمن الأمان بنسبة 100%**. يُنصح دائمًا باتباع إجراءات حماية إضافية أثناء التصفح.
+### 📡 رابط الأداء: https://suhaibishri.github.io/urlchecker.html
 
 ---
 
@@ -44,4 +45,5 @@ This tool helps you stay safe but **cannot guarantee 100% security**. Always use
 **SUHAIB AL-BISHRI**  
 🔗 [LinkedIn](https://www.linkedin.com/in/suhaibishri)  
 💻 [GitHub](https://github.com/suhaibishri)
+📡 [Website](https://suhaibishri.github.io)
 
